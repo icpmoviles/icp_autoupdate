@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/IcpUpdate.iml" filepath="$PROJECT_DIR$/.idea/modules/IcpUpdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/IcpUpdate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/IcpUpdate.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.iml" filepath="$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myapplication/IcpUpdate.myapplication.iml" filepath="$PROJECT_DIR$/.idea/modules/myapplication/IcpUpdate.myapplication.iml" />
+    </modules>
+  </component>
+</project>
