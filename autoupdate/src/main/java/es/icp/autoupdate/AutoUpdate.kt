@@ -68,11 +68,6 @@ object AutoUpdate {
     }
 
     fun startInstall(context: Context, fichero: String): Boolean {
-        Toast.makeText(
-            context,
-            "Empiezo con la instalacion porque ya he terminado",
-            Toast.LENGTH_LONG
-        ).show()
         val apk: File = File(fichero.replace("file:///", ""))
         if (!apk.exists()) {
             return false
