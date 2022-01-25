@@ -50,7 +50,7 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_11">
     <output url="file://$MODULE_DIR$/../../../autoupdate/build/intermediates/javac/release/classes" />
     <output-test url="file://$MODULE_DIR$/../../../autoupdate/build/intermediates/javac/releaseUnitTest/classes" />
     <exclude-output />
