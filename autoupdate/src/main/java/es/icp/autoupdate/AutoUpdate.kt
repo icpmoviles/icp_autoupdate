@@ -22,7 +22,7 @@ object AutoUpdate {
         context.startActivity(intent)
     }
 
-    fun Autoupdate(context: Context, url: String, apk: String, lifecycleScope: Any) {
+    fun Autoupdate(context: Context, url: String, apk: String) {
         val dManager: DownloadManager =
             context.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
         val request: DownloadManager.Request = DownloadManager.Request(Uri.parse(url))
