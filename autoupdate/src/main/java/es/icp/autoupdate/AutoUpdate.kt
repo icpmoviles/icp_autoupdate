@@ -46,8 +46,8 @@ object AutoUpdate {
             context.getSystemService(Context.DOWNLOAD_SERVICE) as DownloadManager
         val request: DownloadManager.Request = DownloadManager.Request(Uri.parse(url))
 
-        request.setTitle("Actualizando Orange RFID")
-        request.setDescription("Descargando Orange RFID")
+        request.setTitle("Actualizando ${apk.replace(".apk", "")} ...")
+        request.setDescription("Descargando ${apk.replace(".apk", "")}")
         request.setDestinationInExternalFilesDir(
             context,
             Environment.getExternalStorageDirectory().path + File.separator + "MyExternalStorageAppPath",
