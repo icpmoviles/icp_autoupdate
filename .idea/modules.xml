@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/IcpUpdate.iml" filepath="$PROJECT_DIR$/.idea/modules/IcpUpdate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.iml" filepath="$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/autoupdate/IcpUpdate.autoupdate.unitTest.iml" />
     </modules>
   </component>
 </project>
